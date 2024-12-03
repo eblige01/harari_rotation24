@@ -17,3 +17,9 @@ dependencies:
   - r-tidyverse
   - r-plotly
   - r-stringr
+  - r-seurat
+  - r-tidyverse
+  - r-devtools
+  - r-cowplot
+  - r-patchwork
+  
