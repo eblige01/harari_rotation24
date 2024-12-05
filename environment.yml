@@ -5,7 +5,7 @@ channels:
   - defaults
 dependencies:
   - python=3.9
-  - r-base=4.0
+  - r-base
   - plotly
   - pandas
   - matplotlib
@@ -19,6 +19,6 @@ dependencies:
   - r-stringr
   - r-seurat
   - r-devtools
-  - r-biomartr
+  - r-biomartr=3.17
   
   
