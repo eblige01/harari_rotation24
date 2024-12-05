@@ -19,6 +19,6 @@ dependencies:
   - r-stringr
   - r-seurat
   - r-devtools
-  - r-biomartr
+  - bioconductor-biomart
   
   
