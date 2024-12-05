@@ -18,9 +18,7 @@ dependencies:
   - r-plotly
   - r-stringr
   - r-seurat
-  - r-tidyverse
   - r-devtools
-  - r-cowplot
-  - r-patchwork
-  - r-ggraph
+  - r-biomartr
+  
   
