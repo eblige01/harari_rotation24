@@ -22,4 +22,5 @@ dependencies:
   - r-devtools
   - r-cowplot
   - r-patchwork
+  - r-ggraph
   
