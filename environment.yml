@@ -20,5 +20,6 @@ dependencies:
   - r-seurat
   - r-devtools
   - bioconductor-biomart
+  - bioconductor-venndiagram
   
   
