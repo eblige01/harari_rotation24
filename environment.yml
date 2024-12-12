@@ -21,5 +21,6 @@ dependencies:
   - r-devtools
   - bioconductor-biomart
   - r-venndiagram
+  - r-readxl
   
   
