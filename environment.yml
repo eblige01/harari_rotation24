@@ -23,5 +23,6 @@ dependencies:
   - r-venndiagram
   - r-readxl
   - r-sf
+  - r-ggVennDiagram
   
   
