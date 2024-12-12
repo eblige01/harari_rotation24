@@ -20,7 +20,7 @@ dependencies:
   - r-seurat
   - r-devtools
   - bioconductor-biomart
-  - r-ggVennDiagram
+  - r-venndiagram
   - r-readxl
   - r-sf
   
