@@ -22,5 +22,6 @@ dependencies:
   - bioconductor-biomart
   - r-ggVennDiagram
   - r-readxl
+  - r-sf
   
   
